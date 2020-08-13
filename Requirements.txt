@@ -1,0 +1,7 @@
+Note:The automation code is Browser specific which will work only on Mozilla Firefox Browser
+For run this code without any errors you must have the following:
+1)A good internet connection
+2)All the python modules installed
+3)Geko driver in your system and the file location specified in the python code
+
+
